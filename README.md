@@ -2,7 +2,7 @@
 
 **Name:** Muhammad Ibtisam Afzal
 **Reference:** MATACS-TH-2026-02
-**Time actually spent:** 2 days
+**Time actually spent:** TODO: write your real total (for example "about 4 hours over 2 days")
 
 ## Summary
 A design for an AI-assisted proposal triage tool. AI is used only to read messy proposal text into structured facts (with evidence quotes) and to write a one-line reason. All pass/fail checks, scoring and ranking are plain code, so results are repeatable. People review every flagged item and make the final award decision.
