@@ -40,5 +40,4 @@ Schema:
 }
 
 # Reason prompt (AI step, after scoring)
-Write one plain sentence explaining this proposal's position using ONLY the numbers and flags provided below. Do not add facts or change scores.
 Input: {{scores_json}}
